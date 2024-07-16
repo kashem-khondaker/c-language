@@ -1,0 +1,4 @@
+3
+abcbca 2
+abxaba 3
+xyzya 23

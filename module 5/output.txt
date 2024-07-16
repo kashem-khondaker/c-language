@@ -1,0 +1,14 @@
+STRING : I am mim !
+I
+am
+mim
+!
+Total words: 4
+=======================
+
+STRING : I am kashem !
+I
+am
+kashem
+!
+Total words: 4
